@@ -55,6 +55,3 @@ Use the arrow keys to control the snake:
 ← Left
 
 → Right
-
-
-
