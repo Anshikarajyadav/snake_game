@@ -25,9 +25,8 @@ Includes sound effects, score tracking, high score persistence using local stora
 ---
 
 ### ▶️ How to Run Locally
+Clone this repository:
 
-1. **Clone this repository:**
-```bash
 git clone https://github.com/Anshikarajyadav/snake_game.git
 cd snake_game
 
